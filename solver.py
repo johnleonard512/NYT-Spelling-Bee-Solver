@@ -9,7 +9,7 @@ def is_in_dictionary(word, dictionary_words):
 
 def run_program(letter_list, must_have_element):
   ### MUST CHANGE PATHNAME TO WHEREEVER YOU SAVE WORDS_ALPHA.TXT 
-    path = r'C:\Users\John Leonard\Desktop\words_alpha.txt'
+    path = r'C:\Users\XXXXXX\YYYYYYY\words_alpha.txt'
     dictionary_words = load_dictionary(path)
 
     while True:
