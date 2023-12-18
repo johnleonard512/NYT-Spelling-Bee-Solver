@@ -1,2 +1,5 @@
 # NYT-Spelling-Bee-Solver
-Python App + standalone .exe that will solve the NYT Spelling Bee game
+
+MUST DOWNLOAD WORDS_ALPHA.TXT AND CHANGE PATHNAME IN SOLVER.PY FOR THIS TO RUN
+
+
